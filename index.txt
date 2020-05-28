@@ -5,7 +5,7 @@ reinvio modifica
 
 1) Crea repository su GITHUB
 2) Installa GIt su PC e config user.name e email
-3) crea cartella su pc e git init nella cartella
-4) clona il repository di github, verra' chiesta pw github
-5) inserisci nuovo file nella cartella locale, add e commit
+3) crea cartella su pc e "git init" nella cartella
+4) clona il repository di github "git clone http:copia clone repository, verra' chiesta pw github
+5) inserisci nuovo file nella cartella locale, git add e git commit . -m "descrizione commit"
 6) git push per caricarlo nella repository github
