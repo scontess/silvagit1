@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/silvagit1/react/static/css/main.0e1ab5d4.chunk.css",
+    "main.js": "/silvagit1/react/static/js/main.b8dfa528.chunk.js",
+    "main.js.map": "/silvagit1/react/static/js/main.b8dfa528.chunk.js.map",
+    "runtime-main.js": "/silvagit1/react/static/js/runtime-main.93ff3966.js",
+    "runtime-main.js.map": "/silvagit1/react/static/js/runtime-main.93ff3966.js.map",
+    "static/js/2.bec5e36d.chunk.js": "/silvagit1/react/static/js/2.bec5e36d.chunk.js",
+    "static/js/2.bec5e36d.chunk.js.map": "/silvagit1/react/static/js/2.bec5e36d.chunk.js.map",
+    "index.html": "/silvagit1/react/index.html",
+    "static/css/main.0e1ab5d4.chunk.css.map": "/silvagit1/react/static/css/main.0e1ab5d4.chunk.css.map",
+    "static/js/2.bec5e36d.chunk.js.LICENSE.txt": "/silvagit1/react/static/js/2.bec5e36d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93ff3966.js",
+    "static/js/2.bec5e36d.chunk.js",
+    "static/css/main.0e1ab5d4.chunk.css",
+    "static/js/main.b8dfa528.chunk.js"
+  ]
+}
